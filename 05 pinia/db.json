@@ -1,0 +1,46 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "Apple iPhone 15",
+      "price": 5999,
+      "desc": "最新款苹果手机",
+      "img": "https://picsum.photos/200/200?1"
+    },
+    {
+      "id": 2,
+      "name": "华为 Mate 60",
+      "price": 4999,
+      "desc": "国产旗舰手机",
+      "img": "https://picsum.photos/200/200?2"
+    },
+    {
+      "id": 3,
+      "name": "小米 14",
+      "price": 3999,
+      "desc": "性价比旗舰",
+      "img": "https://picsum.photos/200/200?3"
+    },
+    {
+      "id": 4,
+      "name": "联想小新 Pro",
+      "price": 5699,
+      "desc": "轻薄办公本",
+      "img": "https://picsum.photos/200/200?4"
+    },
+    {
+      "id": 5,
+      "name": "机械键盘",
+      "price": 299,
+      "desc": "青轴机械键盘",
+      "img": "https://picsum.photos/200/200?5"
+    },
+    {
+      "id": 6,
+      "name": "无线蓝牙耳机",
+      "price": 399,
+      "desc": "降噪长续航",
+      "img": "https://picsum.photos/200/200?6"
+    }
+  ]
+}
