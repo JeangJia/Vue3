@@ -1,0 +1,18 @@
+:root {
+  --background-color: #ecf0f3;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+html,
+body {
+  background-color: var(--background-color);
+}
