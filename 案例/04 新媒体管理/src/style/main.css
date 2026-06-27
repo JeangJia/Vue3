@@ -1,0 +1,38 @@
+:root {
+  --primary-pink: #FB7299;
+  --primary-pink-light: #fc8bab;
+  --primary-pink-dark: #e75a82;
+  --secondary-blue: #00AEEC;
+  --secondary-blue-light: #33bef0;
+  --bg-gray: #f4f5f7;
+  --bg-white: #ffffff;
+  --text-primary: #18191c;
+  --text-secondary: #61666d;
+  --text-muted: #9499a0;
+  --border-color: #e3e5e7;
+  --shadow-light: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --radius: 8px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+html,
+body {
+  background-color: var(--bg-gray);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB',
+    'Microsoft YaHei', sans-serif;
+}
